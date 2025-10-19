@@ -1,0 +1,20 @@
+{
+  "name": "romels-stock-bot",
+  "version": "1.0.0",
+  "description": "Professional Discord ticket bot for Romel's Stock",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "tickets",
+    "romels-stock"
+  ],
+  "author": "Romel's Stock",
+  "license": "MIT"
+}
